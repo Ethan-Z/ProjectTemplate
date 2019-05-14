@@ -4,8 +4,8 @@
 
 ## 关于Cookiecutter
 Cookiecutter 是一个用 Python 开发的项目模版工具，它可以方便创建模板文件,一个项目的前期的工作量
-* GitHub : [https://github.com/audreyr/cookiecutter](https://github.com/audreyr/cookiecutter)
-* Documentation:  [https://cookiecutter.readthedocs.io]https://cookiecutter.readthedocs.io
+* GitHub:[https://github.com/audreyr/cookiecutter](https://github.com/audreyr/cookiecutter)
+* Documentation:[https://cookiecutter.readthedocs.io](https://cookiecutter.readthedocs.io)
 
 ## 安装Cookiecutter
 
